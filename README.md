@@ -47,9 +47,9 @@ Este proyecto implementa un menú interactivo en **GameMaker Studio 2**. Incluye
 
 2. Abre el proyecto en GameMaker Studio 2.
 ##  🛠️ Uso
--Ejecuta el proyecto.
--Navega por el menú con el teclado (⬆️/⬇️) o el mouse.
--Presiona F para intercalar entre Modo Full Screen y Windowed.
+- Ejecuta el proyecto.
+- Navega por el menú con el teclado (⬆️/⬇️) o el mouse.
+- Presiona F para intercalar entre Modo Full Screen y Windowed.
 
 ## 🛤️ Roadmap
 Los próximos pasos incluyen:
