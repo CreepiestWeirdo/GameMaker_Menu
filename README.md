@@ -14,7 +14,7 @@ This project implements an interactive menu in **GameMaker Studio 2**, including
    git clone https://github.com/CreepiestWeirdo/GameMaker_Menu
 
 2. Open the project in GameMaker Studio 2.
-  🛠️ Usage
+##  🛠️ Usage
 - Run the project.
 - Navigate through the menu using the keyboard ⬆️/⬇️/Enter or mouse.
 - Press F to toggle between fullscreen and windowed mode.
@@ -46,7 +46,7 @@ Este proyecto implementa un menú interactivo en **GameMaker Studio 2**. Incluye
    git clone https://github.com/CreepiestWeirdo/GameMaker_Menu
 
 2. Abre el proyecto en GameMaker Studio 2.
-´🛠️ Uso
+##  🛠️ Uso
 -Ejecuta el proyecto.
 -Navega por el menú con el teclado (⬆️/⬇️) o el mouse.
 -Presiona F para intercalar entre Modo Full Screen y Windowed.
