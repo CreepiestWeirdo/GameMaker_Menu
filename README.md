@@ -32,7 +32,7 @@ This project is licensed under the MIT License.
 
 # GameMaker Menu
 
-## 📜 Descripción(ESP)
+## 📜 Descripción (ESP)
 Este proyecto implementa un menú interactivo en **GameMaker Studio 2**. Incluye opciones de "Play", "Options" y "Exit", permitiendo una navegación intuitiva tanto con teclado como con mouse.
 
 ## 🎮 Características
